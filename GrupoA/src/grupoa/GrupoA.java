@@ -23,6 +23,9 @@ public class GrupoA {
       
       do{
           System.out.println("***CONTROLE DE PATRIMÔNIO***");
+          System.out.println();
+          
+          
           
       }while(resp.equals("CONTINUAR"));
       
