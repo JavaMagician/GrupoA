@@ -51,7 +51,30 @@ public class GrupoA {
       mesa.getAnoDeCompra();
       mesa.getValorComprado();
       mesa.getDepreciacao();  
-        
+      
+      computador.setNome("Asus");
+      computador.setDescricao("gamer");
+      computador.setAnoDeCompra(2018);
+      computador.setValorComprado(9.000f);
+      computador.getAnoDeCompra();
+      computador.getValorComprado();
+      computador.getDepreciacao(); 
+      
+      monitor.setNome("DELL");
+      monitor.setDescricao("LED");
+      monitor.setAnoDeCompra(2014);
+      monitor.setValorComprado(250);
+      monitor.getAnoDeCompra();
+      monitor.getValorComprado();
+      monitor.getDepreciacao();  
+      
+      periferico.setNome("Fone");
+      periferico.setDescricao("Estéreo");
+      periferico.setAnoDeCompra(2016);
+      periferico.setValorComprado(150);
+      periferico.getAnoDeCompra();
+      periferico.getValorComprado();
+      periferico.getDepreciacao();  
        
     }
     
