@@ -36,6 +36,13 @@ public class GrupoA {
       predio.getAnoDeCompra();
       predio.getValorComprado();
       
+      sala.setNome("Sala 40");
+      sala.setDescricao("Sala de video");
+      sala.setAnoDeCompra(2016);
+      sala.setValorComprado(15.000f);
+      sala.getAnoDeCompra();
+      sala.getValorComprado();
+      sala.getDepreciacao();
       
         
         
