@@ -28,7 +28,13 @@ public class GrupoA {
       empresa.setValorComprado(950.000f);
       empresa.getDepreciacao();
       
-      
+      predio.setNome("Burj Khalifa");
+      predio.setDescricao("Edifícil mais alto do mundo");
+      predio.setAnoDeCompra(2010);
+      predio.setValorComprado(999.000f);
+      predio.getDepreciacao();
+      predio.getAnoDeCompra();
+      predio.getValorComprado();
       
       
         
