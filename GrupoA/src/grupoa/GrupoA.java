@@ -44,7 +44,13 @@ public class GrupoA {
       sala.getValorComprado();
       sala.getDepreciacao();
       
-        
+      mesa.setNome("beauty mesa");
+      mesa.setDescricao("Madeira");
+      mesa.setAnoDeCompra(2014);
+      mesa.setValorComprado(1.000f);
+      mesa.getAnoDeCompra();
+      mesa.getValorComprado();
+      mesa.getDepreciacao();  
         
        
     }
