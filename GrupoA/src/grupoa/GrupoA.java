@@ -21,17 +21,23 @@ public class GrupoA {
       
       String resp = "";
       
-      do{
-          System.out.println("***CONTROLE DE PATRIMÔNIO***");
-          System.out.println();
-          
-          
-          
-      }while(resp.equals("CONTINUAR"));
+      
+      empresa.setNome("Janize jóias");
+      empresa.setDescricao("Empresa de jóias");
+      empresa.setAnoDeCompra(2019);
+      empresa.setValorComprado(950.000f);
+      empresa.getDepreciacao();
+      
+      
+      
       
         
         
        
     }
+    
+    
+    
+    
     
 }
